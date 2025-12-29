@@ -421,9 +421,4 @@ ISC License - Feel free to use this project for your needs.
 
 ### ⭐ Made with ❤️ for Better Hiring Outcomes
 
-**HireCandi** - *Your AI-powered hiring assistant*
-
-[Get Started](#-quick-start-guide) • [Documentation](#-documentation) • [Report Bug](issues)
-
-</div>
 
